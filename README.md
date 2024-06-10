@@ -8,7 +8,3 @@ O principal objetivo deste projeto é fornecer um sistema de gerenciamento de lo
 
 Contribuição
 Contribuições são sempre bem-vindas! Cada colaborador pode se sentirà vontade para abrir uma issue para discutir novos recursos ou enviar um pull request com melhorias no código.
-
-Licença
-Este projeto é distribuído sob a licença MIT.
-
