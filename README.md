@@ -1,4 +1,4 @@
-Introdução
+
 Com o crescimento da demanda por produtos alimentícios naturais, os cogumelos têm ganhado destaque como uma alternativa atrativa para consumidores preocupados com a qualidade e variedade de alimentos. Para atender a essa demanda em ascensão, é essencial contar com um sistema de gerenciamento eficiente que simplifique as operações diárias de uma loja de cogumelos.
 
 Este projeto surge como uma solução para esse desafio, fornecendo uma plataforma web em PHP para o gerenciamento completo de uma loja de cogumelos. Desenvolvido como parte de um trabalho acadêmico, o objetivo é oferecer aos estudantes uma experiência prática no desenvolvimento de sistemas de gerenciamento de lojas, ao mesmo tempo em que aborda as demandas específicas do setor de cogumelos.
